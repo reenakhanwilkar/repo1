@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:wq!
+|2,0,1593432758,,"wq!"
 :q!
 |2,0,1593421930,,"q!"
-:wq!
-|2,0,1593421418,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -35,26 +35,72 @@
 |3,0,2,2,2,0,1593421396,"","e"
 
 # File marks:
-'0  1  0  source/etc/profile
-|4,48,1,0,1593421930,"source/etc/profile"
-'1  56  0  /etc/profile
-|4,49,56,0,1593421418,"/etc/profile"
-'2  2  0  etc/profile
-|4,50,2,0,1593421313,"etc/profile"
-'3  1  27  ~/git-demo/file.txt
-|4,51,1,27,1592978405,"~/git-demo/file.txt"
-'4  1  21  ~/git-demo/index2.html
-|4,52,1,21,1592977912,"~/git-demo/index2.html"
-'5  1  30  ~/git-demo/index1.html
-|4,53,1,30,1592977802,"~/git-demo/index1.html"
+'0  1  13  ~/git-demo/index6.html
+|4,48,1,13,1593432758,"~/git-demo/index6.html"
+'1  2  23  ~/git-demo/index1.html
+|4,49,2,23,1593432042,"~/git-demo/index1.html"
+'2  1  0  source/etc/profile
+|4,50,1,0,1593421930,"source/etc/profile"
+'3  56  0  /etc/profile
+|4,51,56,0,1593421418,"/etc/profile"
+'4  2  0  etc/profile
+|4,52,2,0,1593421313,"etc/profile"
+'5  1  27  ~/git-demo/file.txt
+|4,53,1,27,1592978405,"~/git-demo/file.txt"
+'6  1  21  ~/git-demo/index2.html
+|4,54,1,21,1592977912,"~/git-demo/index2.html"
+'7  1  30  ~/git-demo/index1.html
+|4,55,1,30,1592977802,"~/git-demo/index1.html"
+'8  1  30  ~/git-demo/index1.html
+|4,56,1,30,1592977802,"~/git-demo/index1.html"
 
 # Jumplist (newest first):
+-'  1  13  ~/git-demo/index6.html
+|4,39,1,13,1593432758,"~/git-demo/index6.html"
+-'  2  23  ~/git-demo/index1.html
+|4,39,2,23,1593432042,"~/git-demo/index1.html"
+-'  2  23  ~/git-demo/index1.html
+|4,39,2,23,1593432042,"~/git-demo/index1.html"
+-'  1  0  ~/git-demo/index1.html
+|4,39,1,0,1593432015,"~/git-demo/index1.html"
+-'  1  0  ~/git-demo/index1.html
+|4,39,1,0,1593432015,"~/git-demo/index1.html"
+-'  1  0  source/etc/profile
+|4,39,1,0,1593421930,"source/etc/profile"
+-'  1  0  source/etc/profile
+|4,39,1,0,1593421930,"source/etc/profile"
+-'  1  0  source/etc/profile
+|4,39,1,0,1593421930,"source/etc/profile"
 -'  1  0  source/etc/profile
 |4,39,1,0,1593421930,"source/etc/profile"
 -'  56  0  /etc/profile
 |4,39,56,0,1593421418,"/etc/profile"
 -'  56  0  /etc/profile
 |4,39,56,0,1593421418,"/etc/profile"
+-'  56  0  /etc/profile
+|4,39,56,0,1593421418,"/etc/profile"
+-'  56  0  /etc/profile
+|4,39,56,0,1593421418,"/etc/profile"
+-'  56  0  /etc/profile
+|4,39,56,0,1593421418,"/etc/profile"
+-'  56  0  /etc/profile
+|4,39,56,0,1593421418,"/etc/profile"
+-'  56  0  /etc/profile
+|4,39,56,0,1593421418,"/etc/profile"
+-'  56  0  /etc/profile
+|4,39,56,0,1593421418,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1593421330,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1593421330,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1593421330,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1593421330,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1593421330,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1593421330,"/etc/profile"
 -'  1  0  /etc/profile
 |4,39,1,0,1593421330,"/etc/profile"
 -'  1  0  /etc/profile
@@ -67,6 +113,54 @@
 |4,39,2,0,1593421313,"etc/profile"
 -'  2  0  etc/profile
 |4,39,2,0,1593421313,"etc/profile"
+-'  2  0  etc/profile
+|4,39,2,0,1593421313,"etc/profile"
+-'  2  0  etc/profile
+|4,39,2,0,1593421313,"etc/profile"
+-'  2  0  etc/profile
+|4,39,2,0,1593421313,"etc/profile"
+-'  2  0  etc/profile
+|4,39,2,0,1593421313,"etc/profile"
+-'  2  0  etc/profile
+|4,39,2,0,1593421313,"etc/profile"
+-'  2  0  etc/profile
+|4,39,2,0,1593421313,"etc/profile"
+-'  2  0  etc/profile
+|4,39,2,0,1593421313,"etc/profile"
+-'  2  0  etc/profile
+|4,39,2,0,1593421313,"etc/profile"
+-'  2  0  etc/profile
+|4,39,2,0,1593421313,"etc/profile"
+-'  2  0  etc/profile
+|4,39,2,0,1593421313,"etc/profile"
+-'  2  0  etc/profile
+|4,39,2,0,1593421313,"etc/profile"
+-'  2  0  etc/profile
+|4,39,2,0,1593421313,"etc/profile"
+-'  1  0  etc/profile
+|4,39,1,0,1593421259,"etc/profile"
+-'  1  0  etc/profile
+|4,39,1,0,1593421259,"etc/profile"
+-'  1  0  etc/profile
+|4,39,1,0,1593421259,"etc/profile"
+-'  1  0  etc/profile
+|4,39,1,0,1593421259,"etc/profile"
+-'  1  0  etc/profile
+|4,39,1,0,1593421259,"etc/profile"
+-'  1  0  etc/profile
+|4,39,1,0,1593421259,"etc/profile"
+-'  1  0  etc/profile
+|4,39,1,0,1593421259,"etc/profile"
+-'  1  0  etc/profile
+|4,39,1,0,1593421259,"etc/profile"
+-'  1  0  etc/profile
+|4,39,1,0,1593421259,"etc/profile"
+-'  1  0  etc/profile
+|4,39,1,0,1593421259,"etc/profile"
+-'  1  0  etc/profile
+|4,39,1,0,1593421259,"etc/profile"
+-'  1  0  etc/profile
+|4,39,1,0,1593421259,"etc/profile"
 -'  1  0  etc/profile
 |4,39,1,0,1593421259,"etc/profile"
 -'  1  0  etc/profile
@@ -91,6 +185,54 @@
 |4,39,1,27,1592978405,"~/git-demo/file.txt"
 -'  1  27  ~/git-demo/file.txt
 |4,39,1,27,1592978405,"~/git-demo/file.txt"
+-'  1  27  ~/git-demo/file.txt
+|4,39,1,27,1592978405,"~/git-demo/file.txt"
+-'  1  27  ~/git-demo/file.txt
+|4,39,1,27,1592978405,"~/git-demo/file.txt"
+-'  1  27  ~/git-demo/file.txt
+|4,39,1,27,1592978405,"~/git-demo/file.txt"
+-'  1  27  ~/git-demo/file.txt
+|4,39,1,27,1592978405,"~/git-demo/file.txt"
+-'  1  27  ~/git-demo/file.txt
+|4,39,1,27,1592978405,"~/git-demo/file.txt"
+-'  1  27  ~/git-demo/file.txt
+|4,39,1,27,1592978405,"~/git-demo/file.txt"
+-'  1  27  ~/git-demo/file.txt
+|4,39,1,27,1592978405,"~/git-demo/file.txt"
+-'  1  27  ~/git-demo/file.txt
+|4,39,1,27,1592978405,"~/git-demo/file.txt"
+-'  1  27  ~/git-demo/file.txt
+|4,39,1,27,1592978405,"~/git-demo/file.txt"
+-'  1  27  ~/git-demo/file.txt
+|4,39,1,27,1592978405,"~/git-demo/file.txt"
+-'  1  27  ~/git-demo/file.txt
+|4,39,1,27,1592978405,"~/git-demo/file.txt"
+-'  1  27  ~/git-demo/file.txt
+|4,39,1,27,1592978405,"~/git-demo/file.txt"
+-'  1  27  ~/git-demo/file.txt
+|4,39,1,27,1592978405,"~/git-demo/file.txt"
+-'  1  27  ~/git-demo/file.txt
+|4,39,1,27,1592978405,"~/git-demo/file.txt"
+-'  1  27  ~/git-demo/file.txt
+|4,39,1,27,1592978405,"~/git-demo/file.txt"
+-'  1  27  ~/git-demo/file.txt
+|4,39,1,27,1592978405,"~/git-demo/file.txt"
+-'  1  27  ~/git-demo/file.txt
+|4,39,1,27,1592978405,"~/git-demo/file.txt"
+-'  1  27  ~/git-demo/file.txt
+|4,39,1,27,1592978405,"~/git-demo/file.txt"
+-'  1  27  ~/git-demo/file.txt
+|4,39,1,27,1592978405,"~/git-demo/file.txt"
+-'  1  27  ~/git-demo/file.txt
+|4,39,1,27,1592978405,"~/git-demo/file.txt"
+-'  1  27  ~/git-demo/file.txt
+|4,39,1,27,1592978405,"~/git-demo/file.txt"
+-'  1  27  ~/git-demo/file.txt
+|4,39,1,27,1592978405,"~/git-demo/file.txt"
+-'  1  27  ~/git-demo/file.txt
+|4,39,1,27,1592978405,"~/git-demo/file.txt"
+-'  1  27  ~/git-demo/file.txt
+|4,39,1,27,1592978405,"~/git-demo/file.txt"
 -'  1  21  ~/git-demo/index2.html
 |4,39,1,21,1592977912,"~/git-demo/index2.html"
 -'  1  21  ~/git-demo/index2.html
@@ -113,82 +255,23 @@
 |4,39,1,21,1592977912,"~/git-demo/index2.html"
 -'  1  21  ~/git-demo/index2.html
 |4,39,1,21,1592977912,"~/git-demo/index2.html"
--'  1  21  ~/git-demo/index2.html
-|4,39,1,21,1592977912,"~/git-demo/index2.html"
--'  1  21  ~/git-demo/index2.html
-|4,39,1,21,1592977912,"~/git-demo/index2.html"
--'  1  21  ~/git-demo/index2.html
-|4,39,1,21,1592977912,"~/git-demo/index2.html"
--'  1  21  ~/git-demo/index2.html
-|4,39,1,21,1592977912,"~/git-demo/index2.html"
--'  1  21  ~/git-demo/index2.html
-|4,39,1,21,1592977912,"~/git-demo/index2.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
--'  1  30  ~/git-demo/index1.html
-|4,39,1,30,1592977802,"~/git-demo/index1.html"
 
 # History of marks within files (newest to oldest):
+
+> ~/git-demo/index6.html
+	*	1593432754	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/git-demo/index1.html
+	*	1593432040	0
+	"	2	23
+	^	2	24
+	.	2	23
+	+	1	31
+	+	2	23
 
 > source/etc/profile
 	*	1593421925	0
@@ -221,10 +304,3 @@
 	^	1	22
 	.	1	21
 	+	1	21
-
-> ~/git-demo/index1.html
-	*	1592977796	0
-	"	1	30
-	^	1	31
-	.	1	30
-	+	1	30
